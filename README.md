@@ -1,7 +1,7 @@
 # Arduino-Temperature-Sensor-with-LCD-Display
 Script ini digunakan untuk membaca suhu menggunakan sensor analog yang terhubung ke pin A3 pada Arduino, lalu menampilkannya pada LCD 16x2 menggunakan library Adafruit_LiquidCrystal.
 
-## 🔗 Video Tutoriall
+## 🔗 Video Tutorial
 - https://www.youtube.com/watch?v=CuSGyTheBLg
 - https://www.tiktok.com/@nexjson
 - https://www.youtube.com/@nexjson
